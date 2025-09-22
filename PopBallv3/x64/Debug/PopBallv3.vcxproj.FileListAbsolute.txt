@@ -1,0 +1,9 @@
+E:\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.AssemblyReference.cache
+E:\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.MainForm.resources
+E:\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.GenerateResource.cache
+D:\Student\DDB002\Umbrasko\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.AssemblyReference.cache
+D:\Student\DDB002\Umbrasko\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.MainForm.resources
+D:\Student\DDB002\Umbrasko\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.GenerateResource.cache
+E:\dev\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.AssemblyReference.cache
+E:\dev\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.MainForm.resources
+E:\dev\CppProjects\OOP\PopBallv3\PopBallv3\x64\Debug\PopBallv3.vcxproj.GenerateResource.cache
